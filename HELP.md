@@ -1,12 +1,10 @@
 Weather Forecast Case Study
 
-This app give avg forecast of day temparature in celsius,night temparature in celsius, air pressure in hPa for next 3 days forecast data taken from 
+This app give avg forecast of day temperature in celsius,night temperature in celsius, air pressure in hPa for next 3 days forecast data taken from 
 https://openweathermap.org
 
 
-If you want to run from an IDE please install lombok as below:
-
-# Tech Stack
+ Tech Stack
 
 1) Java 1.8
 
@@ -17,7 +15,7 @@ If you want to run from an IDE please install lombok as below:
 4) Swagger
 
 # Setup help:
-
+	If you want to run from an IDE please install lombok as below:
   # IDE LOMBOK setup:
 
 1) Exit IDE(if it is open) and download jar from https://projectlombok.org/download
