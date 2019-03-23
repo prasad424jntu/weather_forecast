@@ -1,6 +1,6 @@
 Weather Forecast Case Study
 
-This app give avg forecast of day temperature in celsius,night temperature in celsius, air pressure in hPa for next 3 days forecast data taken from 
+This app gives average forecast of day temperature in celsius,night temperature in celsius, air pressure in hPa for next 3 days forecast data taken from 
 https://openweathermap.org
 
 
@@ -46,13 +46,12 @@ end point url:
 response will be like this: 
 
 {
-    "dayForecastAvgTempOf3Days_Celsius": 7.54,
-    "nightForecastAvgTempOf3Days_Celsius": 3.3,
-    "foreCastPressureAvgOf3Days_hPA": 1025.3
+  "dayForecastAvgTempOf3Days_Celsius" : 6.143,
+  "nightForecastAvgTempOf3Days_Celsius" : 3.356,
+  "foreCastPressureAvgOf3Days_hPA" : 1025.22
 }
-
 # Add Ons:
 
-If time given can enable SSL.
+1) If time given can enable SSL.
 
-HATEOS also can be implemented.
+2) HATEOS also can be implemented.
